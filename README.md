@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Matheus-a-Soares
-- 👀 I’m interested in starting my carrer as a Dev
+- 👀 I’m developing my own app
 - 🌱 I’m currently learning Python and JavaScript
 - 📫 You can reach me on my email matheussoares.augusto@gmail.com
 
