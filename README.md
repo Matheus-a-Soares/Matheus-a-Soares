@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Matheus-a-Soares
 - 👀 I’m developing my own app
-- 🌱 I’m currently learning Python and JavaScript
+- 🖥  I’m have experience with python, javascript, automations, docker, data, n8n  
+- 🌱 I’m currently learning React Native
 - 📫 You can reach me on my email matheussoares.augusto@gmail.com
 
 <!---
